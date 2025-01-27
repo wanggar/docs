@@ -32,7 +32,8 @@
     {
       "group": "Introduction",
       "pages": [
-        "About Wordship"
+        "about",
+        "introduction"
       ]
     },
     {
