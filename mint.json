@@ -5,7 +5,7 @@
     "dark": "/logo/wordship-logo.svg",
     "light": "/logo/wordship-logo.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/wordship-logo.svg",
   "colors": {
   "primary": "#000000",
   "light": "#F5F5F5",
@@ -18,16 +18,10 @@
   "topbarLinks": [],
   "topbarCtaButton": {
     "name": "Start App",
-    "url": "https://preview.wordship.ai"
+    "url": "https://wordship.ai"
   },
   "tabs": [],
-  "anchors": [
-    {
-      "name": "Start App",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    }
-  ],
+  "anchors": [],
   "navigation": [
     {
       "group": "Introduction",
