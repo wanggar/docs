@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-  "primary": "#000000", // Pure black for a clean primary color
-  "light": "#F5F5F5",   // Light gray for a soft background or accents
-  "dark": "#333333",    // Dark gray for text or darker elements
+  "primary": "#000000",
+  "light": "#F5F5F5",
+  "dark": "#333333",
   "anchors": {
-    "from": "#666666",   // Mid-gray for gradient starting point
-    "to": "#999999"      // Light gray for gradient endpoint
+    "from": "#666666",
+    "to": "#999999",
   }
  },
   "topbarLinks": [],
