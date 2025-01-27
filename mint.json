@@ -1,36 +1,26 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Wordship",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#000001",
-    "light": "#07C983",
-    "dark": "#0D9373",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
-    }
-  },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
-  ],
+  "primary": "#000000", // Pure black for a clean primary color
+  "light": "#F5F5F5",   // Light gray for a soft background or accents
+  "dark": "#333333",    // Dark gray for text or darker elements
+  "anchors": {
+    "from": "#666666",   // Mid-gray for gradient starting point
+    "to": "#999999"      // Light gray for gradient endpoint
+  }
+ },
+  "topbarLinks": [],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Start App",
+    "url": "https://preview.wordship.ai"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+  "tabs": [],
   "anchors": [
     {
       "name": "Documentation",
@@ -58,14 +48,16 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Terms & Agreement",
       "pages": [
         "essentials/markdown",
         "essentials/code",
         "essentials/images",
         "essentials/settings",
         "essentials/navigation",
-        "essentials/reusable-snippets"
+        "essentials/reusable-snippets",
+        "essentials/terms-conditions",
+        "essentials/privacy-agreement"
       ]
     },
     {
