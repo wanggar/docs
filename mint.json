@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Soyas",
   "logo": {
-    "dark": "/logo/soyas-white.png",
-    "light": "/logo/soyas-white.png"
+    "dark": "/logo/soyas-transparent.png",
+    "light": "/logo/soyas-transparent.png"
   },
   "favicon": "/logo/soyas-white.png",
   "colors": {
